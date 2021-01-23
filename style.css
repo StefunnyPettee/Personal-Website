@@ -6,24 +6,24 @@
   margin-left: auto;
   max-width: 960px;
 }
-/*this is the background image*/
+/* this is the background image */
 body {
   background-image: url('Valley.JPG');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-/*this is my logo title at the top of page*/
+/* this is my logo title at the top of page */
 .wanderlust {
   margin-top:20px;
 }
-/*this is my name under my logo title*/
+/* this is my name under my logo title */
 .name{
   color:black;
   font-family: bradley hand;
   font-size: 20px;
 }
-/*this is the box that my logo, name and nav links are inside of*/
+/* this is the box that my logo, name and nav links are inside of */
 .head {
   margin-top: 30px;
   margin-bottom: 50px;
@@ -34,7 +34,7 @@ body {
   width: 100%;
  
 }
-*/nav links are centered, colored blue, hover color green, and aligned in center of head box*/
+/* nav links are centered, colored blue, hover color green, and aligned in center of head box */
 .navlinks {
   text-align: center;
   font-size: 25px;
@@ -60,7 +60,7 @@ a:active {
 color:aqua;
 }
 
-/*this is positioning and borders for the two photos of me at the top of page*/
+/* this is positioning and borders for the two photos of me at the top of page */
 .faces img{
  position: block;
   margin-top: 50px;
@@ -163,7 +163,7 @@ p, ul, ol {
     color:rgb(70, 174, 10);
       font-size: 30px;
 }
-*/ this is the geometry star between my horizontal lines */
+/* this is the geometry star between my horizontal lines */
 .geometry{
   display: block;
   margin-right: auto;
