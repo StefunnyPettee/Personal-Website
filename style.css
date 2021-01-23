@@ -170,6 +170,10 @@ p, ul, ol {
   margin-left: auto;
   max-width: 960px;
 }
+.email a{
+  color: blue;
+}
+  
 */ the transparent box for my footer message */
 .foot {
   background:rgba(255,255,255, 0.7);
