@@ -183,7 +183,7 @@ p, ul, ol {
   padding: 50px;
   width: 300px;
   height: 50px;
-  display: block;
+  display: inline-block;
   margin-right: auto;
   margin-left: auto;
   max-width: 960px;
